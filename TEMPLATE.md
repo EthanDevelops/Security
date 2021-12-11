@@ -25,3 +25,5 @@ To fix the issue, update Generic-Software to version 0.0.1 or above.
 | CWE-ID  | CWE Name                          | Source                     |
 |---------|-----------------------------------|----------------------------|
 | CWE-69  | Generic CWE Name                  | Generic Company            |
+
+===END TEMPLATE.md===
